@@ -10,9 +10,9 @@ Plugins: Visustella Pluggins.
 
 Sonido:
 
-Desarrollo: Christian  , Aramiz  , Rodrigo Vergara.
+Desarrollo: Cristian  , Aramiz  , Rodrigo Vergara.
 
-Traduccion al ingles: Christian.
+Traduccion al ingles: Cristian.
 
 Publisher (google play, microsoft store y itch.io): Cuede Games.
 
@@ -72,17 +72,17 @@ Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (gu
 
 Ves que se le cae dinero al suelo a una anciana, ¿que haces? re: Buscas a la anciana y se lo devuelves (Guerrero 3 milicia 1), Dejarlo en el cuartel militar junto a los objetos perdidos (milicia 3 guerrero 1), Donar el dinero (sacerdote 4), Quedarse con el dinero (hechicero 4)
 
-¿?
+Eres voluntario para ayudar en el desarrollo de un pequeño pueblo ¿Qué actividad escoges? re: Sanando enfermos en el hospital (sacerdote 3), Patrullando los perímetros de la aldea para proteger a los aldeanos (milicia 3), Cazando animales amenazantes para los habitantes (guerrero 3), Protección y difusión de libros en biblioteca (hechicero 3)
 
 preguntas grupo 3:
 
-¿?
+¿Cómo te gustaría que los demás te vieran? re: aventurer@ por naturaleza (guerrero 4 hechicero 2), curios@ sobre el conocimiento del mundo (hechicero 4 sacerdote 2), confiable y siempre dispuest@ (milicia 4 guerrero 2), preocupad@ por el bienestar de personas y animales (sacerdote 4 milicia 2)
 
-¿?
+Prefiero la compañia de: re: Amigos (guerrero 3 milicia 1), Familia (sacerdote 3 hechicero 1), Compañeros (milicia 3 guerrero 1), Animales (hechicero 3 sacerdote 1)
 
-¿?
+En un grupo de amigos me definen más como re: observador de lo que sucede (hechicero 3 guerrero 1), Haciendo reír a todos (guerrero 3 sacerdote 1), Atento al estado anímico de cada uno (sacerdote 3 milicia 1), solo disfrutando del tiempo con ellos (milicia 3 hechicero 1)
 
-¿?
+Despiertas en un mundo paralelo ¿Cómo sería? re: Donde este lleno de peligros desafiantes (guerrero 4), Donde todo está en paz (milicia 4), Donde disponga de todo lo necesario para defender a los míos (sacerdote 4), Donde pudiera aprender sobre artes secretas de ese mundo (hechicero 4)
 
 en caso de que el jugador este disconforme con la clase asignada se le dara eleccion de clase.
 
