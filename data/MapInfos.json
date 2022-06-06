@@ -3,6 +3,6 @@ null,
 {"id":1,"expanded":true,"name":"MAP001","order":4,"parentId":2,"scrollX":5116.8,"scrollY":2856},
 {"id":2,"expanded":true,"name":"------pruebas------","order":1,"parentId":0,"scrollX":5116.8,"scrollY":2856},
 {"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":2,"scrollX":1066,"scrollY":595},
-{"id":4,"expanded":true,"name":"Mundo 1","order":2,"parentId":2,"scrollX":3521.4545454545455,"scrollY":1769.4545454545455},
+{"id":4,"expanded":true,"name":"Mundo 1","order":2,"parentId":2,"scrollX":1911,"scrollY":3621},
 {"id":5,"expanded":false,"name":"Creacion de personaje","order":5,"parentId":2,"scrollX":1162.909090909091,"scrollY":639.2727272727273}
 ]
