@@ -34,7 +34,7 @@ Julius rey de Rekin:
 
 () (Guerrero1):
 
-() (Milicia2):
+() (Soldado2):
 
 () (Hechicero3):
 
@@ -56,33 +56,33 @@ En la pantalla inicial se vera un paisaje junto con una musica relajante, se le 
 
 preguntas grupo 1:
 
-¿Cual es tu estacion favorita? re: verano (guerrero 4 sacerdote 2 milicia 1), otoño (milicia 4 hechicero 2 guerrero 1), invierno (hechicero 4 milicia 2 sacerdote 1), primavera (sacerdote 4 guerrero 2 hechicero 1)
+¿Cual es tu estacion favorita? re: verano (guerrero 4 sacerdote 2 Soldado 1), otoño (Soldado 4 hechicero 2 guerrero 1), invierno (hechicero 4 Soldado 2 sacerdote 1), primavera (sacerdote 4 guerrero 2 hechicero 1)
 
-¿Cual es tu lugar favorito? re: bosque (guerrero 3 hechicero 1), ciudad (milicia 3 guerrero 1), montañas (sacerdote 3 milicia 1), cueva (hechicero 3 sacerdote 1)
+¿Cual es tu lugar favorito? re: bosque (guerrero 3 hechicero 1), ciudad (Soldado 3 guerrero 1), montañas (sacerdote 3 Soldado 1), cueva (hechicero 3 sacerdote 1)
 
-¿Con que animal te identificas mas? re: Leon (guerrero 3 hechicero 1), Toro (milicia 3 sacerdote 1), lechuza (sacerdote 3 milicia 1), cuervo (hechicero 3 guerrero 1)
+¿Con que animal te identificas mas? re: Leon (guerrero 3 hechicero 1), Toro (Soldado 3 sacerdote 1), lechuza (sacerdote 3 Soldado 1), cuervo (hechicero 3 guerrero 1)
 
-¿Cual es tu sabor favorito? re: Amargo (guerrero 4 hechicero 2), Picante (milicia 4 sacerdote 2), Dulce (sacerdote 4 milicia 2), Salado (hechicero 4 guerrero 2)
+¿Cual es tu sabor favorito? re: Amargo (guerrero 4 hechicero 2), Picante (Soldado 4 sacerdote 2), Dulce (sacerdote 4 Soldado 2), Salado (hechicero 4 guerrero 2)
 
 preguntas grupo 2:
 
-Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 milicia 1), me pongo frente a mis compañeros y los defiendo con mi escudo (milicia 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1), lo ataco con magia (hechicero 4 sacerdote 1)
+Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 Soldado 1), me pongo frente a mis compañeros y los defiendo con mi escudo (Soldado 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1), lo ataco con magia (hechicero 4 sacerdote 1)
 
-Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (guerrero 3), A socializar con otra gente (milicia 3), A escuchar la musica del bardo (sacerdote 3), A hacer algo de dinero apostando (Hechicero 3)
+Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (guerrero 3), A socializar con otra gente (Soldado 3), A escuchar la musica del bardo (sacerdote 3), A hacer algo de dinero apostando (Hechicero 3)
 
-Ves que se le cae dinero al suelo a una anciana, ¿que haces? re: Buscas a la anciana y se lo devuelves (Guerrero 3 milicia 1), Dejarlo en el cuartel militar junto a los objetos perdidos (milicia 3 guerrero 1), Donar el dinero (sacerdote 4), Quedarse con el dinero (hechicero 4)
+Ves que se le cae dinero al suelo a una anciana, ¿que haces? re: Buscas a la anciana y se lo devuelves (Guerrero 3 Soldado 1), Dejarlo en el cuartel militar junto a los objetos perdidos (Soldado 3 guerrero 1), Donar el dinero (sacerdote 4), Quedarse con el dinero (hechicero 4)
 
-Eres voluntario para ayudar en el desarrollo de un pequeño pueblo ¿Qué actividad escoges? re: Sanando enfermos en el hospital (sacerdote 3), Patrullando los perímetros de la aldea para proteger a los aldeanos (milicia 3), Cazando animales amenazantes para los habitantes (guerrero 3), Protección y difusión de libros en biblioteca (hechicero 3)
+Eres voluntario para ayudar en el desarrollo de un pequeño pueblo ¿Qué actividad escoges? re: Sanando enfermos en el hospital (sacerdote 3), Patrullando los perímetros de la aldea para proteger a los aldeanos (Soldado 3), Cazando animales amenazantes para los habitantes (guerrero 3), Protección y difusión de libros en biblioteca (hechicero 3)
 
 preguntas grupo 3:
 
-¿Cómo te gustaría que los demás te vieran? re: aventurer@ por naturaleza (guerrero 4 hechicero 2), curios@ sobre el conocimiento del mundo (hechicero 4 sacerdote 2), confiable y siempre dispuest@ (milicia 4 guerrero 2), preocupad@ por el bienestar de personas y animales (sacerdote 4 milicia 2)
+¿Cómo te gustaría que los demás te vieran? re: aventurer@ por naturaleza (guerrero 4 hechicero 2), curios@ sobre el conocimiento del mundo (hechicero 4 sacerdote 2), confiable y siempre dispuest@ (Soldado 4 guerrero 2), preocupad@ por el bienestar de personas y animales (sacerdote 4 Soldado 2)
 
-Prefiero la compañia de: re: Amigos (guerrero 3 milicia 1), Familia (sacerdote 3 hechicero 1), Compañeros (milicia 3 guerrero 1), Animales (hechicero 3 sacerdote 1)
+Prefiero la compañia de: re: Amigos (guerrero 3 Soldado 1), Familia (sacerdote 3 hechicero 1), Compañeros (Soldado 3 guerrero 1), Animales (hechicero 3 sacerdote 1)
 
-En un grupo de amigos me definen más como re: observador de lo que sucede (hechicero 3 guerrero 1), Haciendo reír a todos (guerrero 3 sacerdote 1), Atento al estado anímico de cada uno (sacerdote 3 milicia 1), solo disfrutando del tiempo con ellos (milicia 3 hechicero 1)
+En un grupo de amigos me definen más como re: observador de lo que sucede (hechicero 3 guerrero 1), Haciendo reír a todos (guerrero 3 sacerdote 1), Atento al estado anímico de cada uno (sacerdote 3 Soldado 1), solo disfrutando del tiempo con ellos (Soldado 3 hechicero 1)
 
-Despiertas en un mundo paralelo ¿Cómo sería? re: Donde este lleno de peligros desafiantes (guerrero 4), Donde todo está en paz (milicia 4), Donde disponga de todo lo necesario para defender a los míos (sacerdote 4), Donde pudiera aprender sobre artes secretas de ese mundo (hechicero 4)
+Despiertas en un mundo paralelo ¿Cómo sería? re: Donde este lleno de peligros desafiantes (guerrero 4), Donde todo está en paz (Soldado 4), Donde disponga de todo lo necesario para defender a los míos (sacerdote 4), Donde pudiera aprender sobre artes secretas de ese mundo (hechicero 4)
 
 en caso de que el jugador este disconforme con la clase asignada se le dara eleccion de clase.
 
@@ -90,7 +90,7 @@ El personaje sufrira un transcurso de su vida cotidiana hacia el conflicto en el
 
 (Guerrero1): El guerrero comenzara en su cabaña cuando
 
-(Milicia2): El milicia comenzara en un ataque de los orcos de Roditar hacia la milicia de Rekin.
+(Soldado2): El Soldado comenzara en un ataque de los orcos de Roditar hacia la Soldado de Rekin.
 
 (Hechicero3): El hechicero comenzara en un bosque cuando
 
