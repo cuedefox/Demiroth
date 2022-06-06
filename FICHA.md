@@ -90,11 +90,11 @@ El personaje sufrira un transcurso de su vida cotidiana hacia el conflicto en el
 
 (Guerrero1): El guerrero comenzara en su cabaña cuando
 
-(Soldado2): El Soldado comenzara en un ataque de los orcos de Roditar hacia la Soldado de Rekin.
+(Soldado2): El Soldado comenzara en un ataque de los orcos de Roditar hacia las fuerzas de Rekin.
 
 (Hechicero3): El hechicero comenzara en un bosque cuando
 
-(Sacerdote4): El sacerdote comenzara en la iglesia de Rekin cuando descubre un hecho de corrupcion en la zona lo que lo hace querer tomar su propio camino
+(Sacerdote4): El sacerdote comenzara en la iglesia de Rekin cuando descubre un hecho de corrupcion en la iglesia lo que lo hace querer tomar su propio camino
 
 Una vez finalizado el "tutorial" y se hace el transcurso hacia el reino Rekin (al que pertenece el personaje) 
 
