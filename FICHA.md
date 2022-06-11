@@ -4,7 +4,7 @@ Este proyecto esta siendo desarrollado por Demiroth team de Cuede Games.
 
 Historia: Rodrigo Vergara.
 
-Arte: Aramiz , all the Time fantasy assets by finalbossblues [Copyright](C) finalbossblues
+Arte: Aramiz , todos los recursos visuales bajo el titulo time fantasy son propiedad de finalbossblues Copyright ©finalbossblues
 
 Plugins: Visustella Pluggins.
 
