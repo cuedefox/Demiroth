@@ -12,6 +12,8 @@ Sonido:
 
 Desarrollo: Cristian  , Aramiz  , Rodrigo Vergara.
 
+Fuente: Rosario.
+
 Traduccion al ingles: Cristian.
 
 Publisher (google play, microsoft store y itch.io): Cuede Games.
