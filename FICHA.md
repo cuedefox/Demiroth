@@ -22,12 +22,21 @@ Publisher (google play, microsoft store y itch.io): Cuede Games.
 
 Resumen: El heroe (jugador), junto a un grupo de aventureros (compañeros obtenidos a lo largo de la historia) derrotara a el rey lich, invocado por un grupo de cultistas que conviven con los orcos, con el fin de ganar la guerra con los humanos (Alianza de distintos reinos e incluso otras razas).
 
-Demiroth: Es el mundo donde transcurre el juego, en su gran parte transcurrira en el continente de mondria, aunque en Demiroth puede que haya mas continentes / islas desconocidos.
+Demiroth: Es el mundo donde transcurre el juego.
+
+Continentes:
+
+Mondria: Es el continente habitado por la alianza, en el se encuentran las comunidades de
+
+Roditar: Continente del reino de Roditar, conformado por la comunidad de los orcos y otras razas en menor parte.
+
+(): Continente helado,
 
 Grupos y Reinos:
-Alianza: Conformado por varios reinos de humanos y algunas otras razas marginadas Los reinos que la componen son Rekin, 
 
-Roditar: Reino conformado por orcos principalmente y otras razas en menor parte, todos Obedecen a Karoth, el señor de los Orcos
+Alianza: Conformado por varios reinos de humanos y algunas otras razas marginadas las comunidades que la componen son Rekin, pueblo (), ()(Pueblo elfo), ()(Pueblo enano), reino ().
+
+Roditar: Reino conformado por orcos principalmente y otras razas en menor parte, todos Obedecen a Karoth, el señor de los Orcos.
 
 Personajes:
 Heroe (Jugador):

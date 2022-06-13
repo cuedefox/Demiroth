@@ -3,6 +3,6 @@ null,
 {"id":1,"expanded":true,"name":"MAP001","order":5,"parentId":2,"scrollX":1599,"scrollY":879},
 {"id":2,"expanded":true,"name":"------pruebas------","order":2,"parentId":0,"scrollX":1827.4285714285713,"scrollY":1004.5714285714286},
 {"id":3,"expanded":false,"name":"MAP003","order":4,"parentId":2,"scrollX":1162.909090909091,"scrollY":639.2727272727273},
-{"id":4,"expanded":true,"name":"Demiroth","order":3,"parentId":2,"scrollX":5440.8,"scrollY":2476.7999999999997},
+{"id":4,"expanded":true,"name":"Demiroth","order":3,"parentId":2,"scrollX":3654.8571428571427,"scrollY":2009.142857142857},
 {"id":5,"expanded":false,"name":"Creacion de personaje","order":1,"parentId":0,"scrollX":1827.4285714285713,"scrollY":1004.5714285714286}
 ]
