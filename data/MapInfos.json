@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":6,"parentId":2,"scrollX":1421.3333333333333,"scrollY":781.3333333333334},
-{"id":2,"expanded":true,"name":"------pruebas------","order":3,"parentId":0,"scrollX":3654.8571428571427,"scrollY":2064},
-{"id":3,"expanded":false,"name":"MAP003","order":5,"parentId":2,"scrollX":1421.3333333333333,"scrollY":781.3333333333334},
-{"id":4,"expanded":true,"name":"Demiroth","order":4,"parentId":2,"scrollX":2885.3333333333335,"scrollY":2096},
-{"id":5,"expanded":false,"name":"Creacion de personaje","order":2,"parentId":0,"scrollX":1421.3333333333333,"scrollY":781.3333333333334},
-{"id":6,"expanded":false,"name":"Logotipos","order":1,"parentId":0,"scrollX":915.4285714285713,"scrollY":917.1428571428571}
+{"id":2,"expanded":false,"name":"------pruebas------","order":3,"parentId":0,"scrollX":1066,"scrollY":586},
+{"id":3,"expanded":false,"name":"MAP003","order":5,"parentId":2,"scrollX":1066,"scrollY":586},
+{"id":4,"expanded":true,"name":"Demiroth","order":4,"parentId":2,"scrollX":2886,"scrollY":2096},
+{"id":5,"expanded":false,"name":"Creacion de personaje","order":2,"parentId":0,"scrollX":1066,"scrollY":602},
+{"id":6,"expanded":false,"name":"Logotipos","order":1,"parentId":0,"scrollX":1082,"scrollY":838}
 ]
